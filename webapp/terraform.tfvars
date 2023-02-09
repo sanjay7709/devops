@@ -1,0 +1,8 @@
+resource_group_name = "ModusETPcompany"
+resource_group_location = "eastus" 
+app_service_name = "sanwebapp"
+app_service_plan_name = "webappplan"
+sql_server_name = "terraform-sansql1"
+sql_database_name = "sanproddb"
+sql_admin_login = "sanjay01"
+sql_admin_password = "Sanjay@123456"
